@@ -1,0 +1,2 @@
+# conky-arch
+conky config

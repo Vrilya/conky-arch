@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=conky -d
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[sv_SE]=Conky
+Name=Conky
+Comment[sv_SE]=Conky autostart
+Comment=Conky autostart
